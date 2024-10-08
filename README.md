@@ -1,5 +1,5 @@
 1.) Install NVM (node version manager) https://www.freecodecamp.org/news/node-version-manager-nvm-install-guide/
-2.) Install Node (Run in Terminal) nvm -install latest
+2.) Install Node (Run in Terminal) nvm install node
 3.) To start server run: npm run devStart
 
 EXTRA THINGS
